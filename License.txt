@@ -1,0 +1,25 @@
+END USER LICENSE AGREEMENT (EULA)
+
+PLEASE READ THIS END USER LICENSE AGREEMENT (THE “AGREEMENT”) CAREFULLY BEFORE USING CRYPTIFY, MADE BY FOXHACKERZ (THE “SOFTWARE”). BY USING THE SOFTWARE, YOU ARE AGREEING TO BE BOUND BY THE TERMS OF THIS AGREEMENT. IF YOU DO NOT AGREE TO THE TERMS OF THIS AGREEMENT, DO NOT USE THE SOFTWARE.
+
+1. License Grant. FoxHackerz hereby grants you a limited, non-exclusive, non-transferable license to use the Software, subject to the terms and conditions of this Agreement.
+
+2. Restrictions. You may not, without the prior written consent of FoxHackerz, (a) copy or reproduce the Software; (b) modify, adapt, translate, or create derivative works based on the Software; (c) reverse engineer, decompile, or disassemble the Software, except to the extent that such activity is expressly permitted by applicable law; (d) distribute, sublicense, rent, lease, or otherwise transfer the Software to any third party; or (e) remove any proprietary notices or labels on the Software.
+
+3. Ownership. The Software, including any modifications, enhancements, revisions, or derivative works thereof, and all intellectual property rights in and to the Software, including without limitation patents, copyrights, trademarks, trade names, trade secrets, and any other proprietary rights, are and shall remain the sole and exclusive property of FoxHackerz.
+
+4. Termination. This Agreement shall terminate automatically if you fail to comply with any of the terms and conditions of this Agreement. Upon termination, you shall immediately cease all use of the Software and destroy all copies of the Software in your possession.
+
+5. Disclaimer of Warranty. The Software is provided “AS IS,” without warranty of any kind, either express or implied, including without limitation any warranty for information, services, uninterrupted access, or products provided through or in connection with the Software, including without limitation the software licensed to you and the results obtained through the Software. Specifically, FoxHackerz disclaims any and all warranties, including without limitation: 1) Any warranties concerning the availability, accuracy, usefulness, or content of information, products or services; and 2) any warranties of title, warranty of non-infringement, warranties of merchantability or fitness for a particular purpose.
+
+6. Limitation of Liability. In no event shall FoxHackerz be liable for any indirect, incidental, special, punitive, or consequential damages arising out of or in connection with this Agreement or the use or inability to use the Software, including without limitation damages for loss of profits, data, use, or other intangible property, even if FoxHackerz has been advised of the possibility of such damages.
+
+7. Governing Law. This Agreement shall be governed by and construed in accordance with the laws of the state of California, without regard to its conflict of laws provisions.
+
+8. Entire Agreement. This Agreement constitutes the entire agreement between you and FoxHackerz with respect to the Software and supersedes all prior or contemporaneous communications and proposals, whether oral or written, between you and FoxHackerz.
+
+9. Waiver. No waiver of any breach of any provision of this Agreement shall constitute a waiver of any prior, concurrent, or subsequent breach of the same or any other provisions hereof, and no waiver shall be effective unless made in writing and signed by an authorized representative of the waiving party.
+
+10. Severability. If any provision of this Agreement is held to be invalid or unenforceable, the remaining provisions shall continue in full force and effect.
+
+BY CLICKING “I AGREE” OR USING THE SOFTWARE, YOU ACKNOWLEDGE THAT YOU HAVE READ THIS AGREEMENT
